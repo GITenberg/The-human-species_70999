@@ -1,0 +1,44 @@
+_repo: The-human-species_70999
+_version: 0.0.1
+alternative_title: L'espèce humaine. English
+creator:
+  author:
+    agent_name: Quatrefages, A. de (Armand de)
+    aliases:
+    - De Quatrefages, A. (Armand)
+    - Quatrefages, Armand de
+    - Quatrefages, M. de (Armand de)
+    - De Bréau, Jean Louis Armand de Quatrefages
+    - De Breau, Jean Louis Armand de Quatrefages
+    - Bréau, Jean Louis Armand de Quatrefages de
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '56033'
+    url: http://www.gutenberg.org/2009/agents/56033
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au
+    - https://fr.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au
+description: ''
+gutenberg_issued: '2023-06-19'
+identifiers:
+  gutenberg: '70999'
+  lccn: '10000377'
+language: en
+pgterms:marc904: https://archive.org/details/humanspecies01quat
+pgterms:marc905: 20210411080946dequatrefa
+pgterms:marc906: '1879'
+pgterms:marc907: US
+production_note: deaurider, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bD. Appleton and company, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The International scientific series. vol. XXVII
+subjects:
+- !lcsh 'Anthropology'
+- !lcc 'GN'
+- GITenberg
+title: The human species
+url: http://www.gutenberg.org/ebooks/70999
