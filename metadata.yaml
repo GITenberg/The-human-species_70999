@@ -1,6 +1,9 @@
 _repo: The-human-species_70999
 _version: 0.1.0
 alternative_title: L'espèce humaine. English
+covers:
+- cover_type: archival
+  image_path: 70999-h/images/cover.jpg
 creator:
   author:
     agent_name: Quatrefages, A. de (Armand de)
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au
     - https://fr.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70999#The-human-species
 gutenberg_issued: '2023-06-19'
 identifiers:
   gutenberg: '70999'
